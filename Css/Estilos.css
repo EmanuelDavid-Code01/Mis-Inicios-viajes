@@ -1,0 +1,134 @@
+@font-face{
+    font-family:"AbrilFatface-Regular";
+    src:url(../assets/fonts/AbrilFatface-Regular.ttf);
+}
+@font-face{
+    font-family:"Lato-Light";
+    src:url(../assets/fonts/Lato-Light.ttf);
+}
+@font-face{
+    font-family:"Lato-Regular" ;
+    src: url(../assets/fonts/Lato-Regular.ttf);
+}
+body{
+    background-color: #f8f1f1;
+}
+hr{
+    border: 2px solid #16c79a;
+    background-color:  #16c79a;
+}
+p{
+    color: #11698e;
+    font-family:"Lato-Light" ;
+}
+h3{
+    color: #11698e;
+    text-align: center;
+    font-family: "AbrilFatface-Regular";
+}
+h2{
+    color: #11698e;
+    text-align: center;
+    font-family:"Lato-Regular" ;
+    
+}
+h1{
+    color: #19456b;
+    text-align: center;
+    font-size:80px;  
+    font-family: "AbrilFatface-Regular";
+}
+h5{
+    color: #19456b;
+    
+}
+.iniciaR{
+    color: #16c79a;
+    font-size: 40px;
+
+}
+small{
+  color:   #19456b;
+}
+.bg-dark{
+    background-color: #19456b !important;
+}
+.logo{
+      position: relative;
+      top:10px;
+    display:block;
+    margin-left: auto;
+   margin-right: auto;
+    border-radius: 50%;
+    border: double 10px #3f3697;
+}
+ .card-title{
+    color:#f8f1f1;
+    font-size: 40px;
+}
+.card-text{
+
+color:#3f3697;
+    font-size: 25px;
+} 
+form input:focus {
+    width: 150px;
+    font-size: 24px;
+   transition: 3s;
+}
+.btn-primary {
+    color:#3f3697;
+ background-color:#f8f1f1;
+ border-color:#f8f1f1;
+}
+.btn-primary:hover{
+    color:#f8f1f1;
+    background-color: #3f3697;
+    border-color: #3f3697;
+}
+
+.btn{
+    color:#3f3697 !important;
+ background-color:#f8f1f1 !important;
+ border-color:#f8f1f1 !important;
+}
+.btn:hover{
+    color:#f8f1f1 !important;
+    background-color: #3f3697 !important;
+    border-color: #3f3697 !important;
+} 
+.RioColor{
+    font-family: "AbrilFatface-Regular";
+    color:#153e90;
+    font-size: 60px;
+
+
+}
+.BarColor{
+    color:#16c79a;
+}
+.color{
+    
+    color: #000000;
+    font-family:"AbrilFatface-Regular";
+
+}
+.moverR{
+    position: relative;
+    top: -110px;
+
+}
+.moverRT{
+    position: relative;
+    top: -60px;
+}
+main{
+    background-color:#f8f1f1;
+
+}
+div.row{
+    background-color:#f8f1f1;
+}
+.bg-light{
+    background-color:#f8f1f1 !important;
+}
